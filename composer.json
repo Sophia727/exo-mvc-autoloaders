@@ -1,0 +1,15 @@
+{
+    "name": "hp/exo-mvc-autoloaders",
+    "autoload": {
+        "psr-4": {
+            "Sophia\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sophia",
+            "email": "sophiatoukram@gmail.com"
+        }
+    ],
+    "require": {}
+}
